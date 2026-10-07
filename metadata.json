@@ -1,0 +1,6 @@
+{
+  "name": "SIREN — Local Music Player",
+  "description": "Real local Android audio player with device storage scanning, acoustic rotations, playlists, and offline playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

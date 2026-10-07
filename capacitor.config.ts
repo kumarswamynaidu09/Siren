@@ -10,7 +10,7 @@ const config: CapacitorConfig = {
     androidScheme: 'https',
     // Uncomment and replace with your computer's local IP or dev URL for live reload on a physical device / emulator:
     // url: 'http://10.0.2.2:3000', // for Android Emulator
-    // url: 'http://192.168.1.X:3000', // for physical phone on same Wi-Fi
+    url: 'siren-production-de04.up.railway.app'
   },
 };
 
